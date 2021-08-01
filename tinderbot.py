@@ -3,11 +3,8 @@ import time
 
 class tinderbot():
 
-
-
     def __init__(self):
         self.driver=webdriver.Chrome()
-
 
     def login(self):
 
